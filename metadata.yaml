@@ -1,5 +1,8 @@
 _repo: Leaves-from-our-Tuscan-kitchen-or-How-to-cook-vegetables_69370
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69370-h/images/cover.jpg
 creator:
   author:
     agent_name: Ross, Janet
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7618
     wikipedia: https://en.wikipedia.org/wiki/Janet_Ross
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69370#Leaves-from-our-Tuscan-kitchen-or-How-to-cook-vegetables
 gutenberg_issued: '2022-11-17'
 identifiers:
   gutenberg: '69370'
